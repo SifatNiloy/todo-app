@@ -1,3 +1,4 @@
+import TodoContainer from "./components/todo/TodoContainer"
 import Todo from "./pages/Todo"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Todo/>
+
     </>
   )
 }
